@@ -3,8 +3,7 @@ import styles from '../styles/Home.module.scss'
 export default function Home() {
   return (
     <div className={styles.container}>
-        <h1>ALTEMETER</h1>
-        <p>new</p>
+        <h1>ALAYE WETIN DEY SUP</h1>
     </div>
   )
 }
