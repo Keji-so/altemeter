@@ -1,0 +1,23 @@
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  overflow-x: hidden;
+ 
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  padding: 50px;
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
