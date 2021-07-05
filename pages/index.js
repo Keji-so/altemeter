@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
         <h1>ALTEMETER</h1>
+        <p>new</p>
     </div>
   )
 }
